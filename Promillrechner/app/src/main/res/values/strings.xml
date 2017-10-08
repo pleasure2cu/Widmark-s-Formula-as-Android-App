@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Promillrechner</string>
+    <string name="gewicht_string">Gewicht:</string>
+    <string name="kilogramm_string">Kilogramm</string>
+    <string name="menge_string">Menge (Liter):</string>
+    <string name="string_5">"  5%"</string>
+    <string name="string_20">20%</string>
+    <string name="string_40">40%</string>
+    <string name="zeit_string">Zeit:</string>
+    <string name="stunden_string">Stunden</string>
+    <string name="null_zahl">0</string>
+    <string name="berechnen_string">Berechnen</string>
+    <string name="mann_string">Mann</string>
+    <string name="frau_string">Frau</string>
+    <string name="high_string">90% absorbiert, 0.1 Abbau</string>
+    <string name="low_string">70% absorbiert, 0.2 Abbau</string>
+    <string name="avg_string">80% absorbiert, 0.1 Abbau</string>
+</resources>
